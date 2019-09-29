@@ -1,0 +1,1 @@
+Nexter is project that I build to learn CSS Grid layouts. The project was designed by Jonas Schmedtman for his course on Udemy: Advanced CSS and Sass: Flexbox, Grid, Animations and More! 
